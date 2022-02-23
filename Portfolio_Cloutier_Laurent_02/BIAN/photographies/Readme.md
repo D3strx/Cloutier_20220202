@@ -1,5 +1,5 @@
 photographie de l'oeuvre ou du dispositif dans son ensemble
-![photo](T:\Etudes\CEGEP\CEGEPHIVER2021-2022\Multi-medias\Motto\Motto Nom.JPG)
+![photo](Motto Nom.JPG)
 photographies des composantes de l'oeuvre
 ![photo](IMG_2386.JPG)
 photographies des éléments nécessaires à sa mise en espace
