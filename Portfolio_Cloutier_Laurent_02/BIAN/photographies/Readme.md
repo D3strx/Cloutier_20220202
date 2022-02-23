@@ -9,6 +9,8 @@
 # photographies des éléments nécessaires à sa mise en espace
 
 ![image](https://user-images.githubusercontent.com/89648302/155341560-7e39130b-ac4e-41cb-a77a-cbb4260cc973.png)
+![image](https://user-images.githubusercontent.com/89648302/155341808-67141d72-ac96-4da5-aaaa-165de4469ea4.png)
+
 
 # autoportrait (photo) de vous avec l'oeuvre
 
